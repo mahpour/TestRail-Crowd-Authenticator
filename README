@@ -1,0 +1,8 @@
+TestRail Authentication Module for Atlassian Crowd SOAP Web Services. 
+
+INSTALLATION NOTES:
+
+1.Update the $config variable in /auth/auth.php to your Crowd server settings 
+2.Drop the contents of auth folder to your TestRail /custom/auth folder
+
+PHP errors are turned off by default so feel free to turn it on in auth.php for further troubleshooting.
